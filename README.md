@@ -14,4 +14,4 @@ streamlit run dashboard\dashboard.py
 streamlit run dashboard/dashboard.py
 ```
 # link streamlite
-https://polutioninguanyuanarea.streamlit.app/
+https://dicodingprojectpolutioninguanyuanarea.streamlit.app/
