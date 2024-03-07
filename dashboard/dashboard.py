@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-df = pd.read_csv('https://raw.githubusercontent.com/BraiNeu-F/polution_in_guanyuan_area/main/data/guanyuan_data_clean.csv', sep=',')
+df = pd.read_csv('https://raw.githubusercontent.com/BraiNeu-F/dicoding_project_polution_in_guanyuan_area/main/data/guanyuan_data_clean.csv', sep=',')
 
 
 min_date = df['year'].min()
